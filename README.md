@@ -1,6 +1,6 @@
 # DataPipeline
 ## Notes for reminders
-#### ^_^ Personal information is LINE accounts ^_^
+#### ^_^ LINE accounts contain the personal information and codes. ^_^
 
 Data pipeline development for a big teaching hospital is our most important project. This opportunity is critical for those of us who are venturing down the Big Data path.
 
